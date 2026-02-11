@@ -7,3 +7,4 @@ use the site for gm/gn deploy or swap https://www.basehub.fun/
 use the site, connect your meta mask wallet and complet simple tas with base trx https://guild.xyz/base/home
 Roles for Base users. Based on your onchain activity. https://guild.xyz/base/onchain
 Roles for builders and founders on Base. Based on your development activity and contributions. https://guild.xyz/base/builders-founders
+Roles for creators, voices, and organizers shaping Base culture. https://guild.xyz/base/creators-voices
